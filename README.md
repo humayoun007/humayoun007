@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on asp.net core and asp.net core web api projects mostly on .net ecosystem. Respective to front end I prefer mostly Angular.
-- 🌱 I’m currently learning clearn architecture with cqrs, Domain driven design pattern, docker, microsoft azure etc.
+- 🌱 I’m currently learning clearn architecture with cqrs, Domain driven design pattern, docker, microsoft azure, github actions, jenkins (mostly CI/CD pipeline).
 - 👯 I’m looking forward to collaborate on skype (humayoun.kabir72) , Telegram (@Pro_hkabir) 
 - 💬 Ask me about .net technologies, I have a stackoverflow account: https://stackoverflow.com/users/1427614/humayoun-kabir
 - 📫 How to reach me: +8801710232396 (mobile and IMO ), +8801941081072 ( WhatsApp )
