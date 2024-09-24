@@ -8,4 +8,4 @@
 - 😄 I love to read funny jokes, story based blogs, science friction books , learing ebooks. I have a large facebook community on c# asp.net framework 
 - ⚡ Fun fact: I have never travels outside of my country but looking forward in near future.
 - 👌 Passion: I love to write poem, novel and blogspot. That's why these blogs are made: https://amakeniye.wordpress.com/ and http://amakeniye.blogspot.com/
-- 🌹 In social media: In facebook you can get me with: https://www.facebook.com/humayounk  and in twitter: https://twitter.com/humayoun0001
+- 🌹 In social media: In linkedin you can reach me through: https://www.linkedin.com/in/humayoun007/ and in facebook you can get me with: https://www.facebook.com/humayounk  and in twitter: https://twitter.com/humayoun0001 
